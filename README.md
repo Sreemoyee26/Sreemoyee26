@@ -51,7 +51,7 @@
 <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo-2019-2020.png" alt="photoshop"  width="70" height="40" />
 </div>
  
-<br/><br/>
+<br/>
 
 <hr/>
 
