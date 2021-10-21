@@ -49,11 +49,13 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40px"/>
  
- <br /><br /> 
+ <br /><br/> 
+
 </div>
 
 
 <br /><br />
+
 <div align="center">
 
 <hr/>
