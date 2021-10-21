@@ -48,8 +48,6 @@
 <img align="left" alt="bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> 
 <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40px"/>
- <br/>
-<img align="left" src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo-2019-2020.png" alt="photoshop" width="70px"/>
  
  <br /><br /> 
 </div>
