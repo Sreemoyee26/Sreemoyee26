@@ -8,7 +8,7 @@
 
 <h2 style="margin-left:10%">Interested in: </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F6DA5A&size=25&center=true&lines=Web+Development;Competitive+Programming;UI/UX+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1f83e0&size=25&center=true&lines=Web+Development;Competitive+Programming;UI/UX+Design)](https://git.io/typing-svg)
 <div>
 
 <p>
